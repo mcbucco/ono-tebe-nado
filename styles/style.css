@@ -76,7 +76,7 @@
   width: 1100px;
   height: 757px;
   margin-top: 96px;
-  background-image: url(/images/cover.jpg);
+  background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
@@ -250,15 +250,15 @@
 }
 
 .card_type_film {
-  background-image: url(/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_type_book {
-  background-image: url(/images/card-lot-02.jpg);
+  background-image: url(../images/card-lot-02.jpg);
 }
 
 .card_type_picture {
-  background-image: url(/images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-03.jpg);
 }
 
 .view-more {
@@ -381,13 +381,13 @@
 }
 
 .icon-youtube {
-  background-image: url(/images/yt.svg);
+  background-image: url(../images/yt.svg);
 }
 
 .icon-vk {
-  background-image: url(/images/vk.svg);
+  background-image: url(../images/vk.svg);
 }
 
 .icon-pinterest {
-  background-image: url(/images/pinterest.svg);
+  background-image: url(../images/pinterest.svg);
 }
